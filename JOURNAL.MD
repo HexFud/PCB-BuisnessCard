@@ -22,3 +22,7 @@ I ran into a problem, I need to decide what nfc reader to use because i want it 
 I have now assigned the footprints for all the components and i have to place it in order, i am trying to keep things as small as possible because it is still a badge :)
 
 ![footprint](media/fottprint.png)
+
+Finally finished placing the led footprints in a matrix shape (needed to check evry space between them), now i think it is time to check again for the nfc reader/antenna to complete the schematic (maybe I will have more luck)
+
+![matrix](media/matrix.png)
