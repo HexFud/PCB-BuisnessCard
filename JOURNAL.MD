@@ -26,3 +26,7 @@ I have now assigned the footprints for all the components and i have to place it
 Finally finished placing the led footprints in a matrix shape (needed to check evry space between them), now i think it is time to check again for the nfc reader/antenna to complete the schematic (maybe I will have more luck)
 
 ![matrix](media/matrix.png)
+
+Finally found the nfc/rfid reader and also the footprint! Now i need to wire it to the other components.
+
+![nfc reader](media/nfc.png)
