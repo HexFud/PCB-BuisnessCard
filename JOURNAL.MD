@@ -35,3 +35,7 @@ After looking at the wiring path of the leds i noticed that the matrix in the el
 Update: After a bit of rotating, moving and replacing LEDs i finally ordered them like the schematic now i can finally start wiring
 
 ![Ordered LEDs](media/orderLed.png)
+
+Finished wiring the LED matrix, now i will start to wire the matrix to the led controller
+
+![LED wiring](media/wiringmatrix.png)
