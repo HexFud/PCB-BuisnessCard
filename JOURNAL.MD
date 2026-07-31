@@ -39,3 +39,5 @@ Update: After a bit of rotating, moving and replacing LEDs i finally ordered the
 Finished wiring the LED matrix, now i will start to wire the matrix to the led controller
 
 ![LED wiring](media/wiringmatrix.png)
+
+After searching about and learning more about led matrixes just to confirm my wiring scheme and i ran into a site that said that i need pull-up resistors for the LEDs, so know i am going to wire them and then contniue my jouney. Furthermore i forgot to add the button battery holder to keep the pcb alive even if it is not connected to the usb
