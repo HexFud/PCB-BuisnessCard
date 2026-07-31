@@ -46,3 +46,9 @@ Added a button battery and i think i will end the day with this modification. I 
 Update: Sike! I placed all the components in order for the PCB also added a coil as the antenna for the NFC! Now i need to wire all the parts together and then start designing the firmware
 
 ![Almost finished PCB](media/pcbfin.png)
+
+DAY 2 (1 August 2026)
+
+Finally finished the PCB!!! Now i will upload all the pcb and scheme files here and I will start do develop the microcontroller firmware
+
+![LED wiring](media/finish2.png) ![LED wiring](media/finish1.png)
