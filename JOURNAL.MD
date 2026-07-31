@@ -5,7 +5,7 @@ description: "This will be a pcb style business card with some functions like a 
 created_at: "2025-07-31"
 ---
 
-## Day 1 31 July 2026
+## Day 1 (31 July 2026)
 
 Started to place down some components in kicad but I am still confused on what microcontroller to chose. I need to find something small that has a lot of gpio pins, my first tought is the CH552G because it also has a usb-c port that can be used for flsahing the firmware on the buisness card 
 
@@ -18,3 +18,7 @@ This is the work in progress matrix:
 ![led matrix](media/led.png)
 
 I ran into a problem, I need to decide what nfc reader to use because i want it to be writable by the microcontroller and has a vast compatiblity with all smartphones. I am reading a lot of documentation but i cannot find the right one. I am going to resume wiring without the nfc reader and add it later
+
+I have now assigned the footprints for all the components and i have to place it in order, i am trying to keep things as small as possible because it is still a badge :)
+
+![footprint](media/fottprint.png)
