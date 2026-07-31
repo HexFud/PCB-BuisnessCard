@@ -30,3 +30,5 @@ Finally finished placing the led footprints in a matrix shape (needed to check e
 Finally found the nfc/rfid reader and also the footprint! Now i need to wire it to the other components.
 
 ![nfc reader](media/nfc.png)
+
+After looking at the wiring path of the leds i noticed that the matrix in the elctrical scheme was totally right but when i started placing the leds on the PCB i didn't put them in order as the scheme. So now i am going to re-order the leds like the schematic to get a more efficient wiring
