@@ -52,3 +52,5 @@ DAY 2 (1 August 2026)
 Finally finished the PCB!!! Now i will upload all the pcb and scheme files here and I will start do develop the microcontroller firmware
 
 ![LED wiring](media/finish2.png) ![LED wiring](media/finish1.png)
+
+The firmawre is done! Now I need to do some final checks and the project is officaly finished
