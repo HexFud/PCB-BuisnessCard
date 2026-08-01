@@ -54,3 +54,7 @@ Finally finished the PCB!!! Now i will upload all the pcb and scheme files here 
 ![LED wiring](media/finish2.png) ![LED wiring](media/finish1.png)
 
 The firmawre is done! Now I need to do some final checks and the project is officaly finished
+
+I officially uploaded all of the files on github! So this project is officially closed for now, maybe in the future i will do some re-design.
+
+Total time spent: 5 hours
