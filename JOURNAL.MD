@@ -47,7 +47,7 @@ Update: Sike! I placed all the components in order for the PCB also added a coil
 
 ![Almost finished PCB](media/pcbfin.png)
 
-DAY 2 (1 August 2026)
+## DAY 2 (1 August 2026)
 
 Finally finished the PCB!!! Now i will upload all the pcb and scheme files here and I will start do develop the microcontroller firmware
 
